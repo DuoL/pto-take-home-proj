@@ -5,6 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### Briefy
+Node version: v19.2.0
+
+Finished within 2 hours including design the UI + implementation. 
+Bascially there are 2 tabs: homepage(static) and table(pagination + sort on market price)
+Thank you so much for reviewing this, Daniel!
 
 ### `npm start`
 
